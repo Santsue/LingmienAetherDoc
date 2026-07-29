@@ -21,15 +21,15 @@ order: 4
 
 |                             属性/方法                              |<div style="width: 3.5em">端</div>|       描述      |
 |:--------------------------------------------------------------:|:-:|:-------------:|
-|        [ExchangePlayerInv](/docs/all#exchangeplayerinv)        |<font color=red>服务端</font>|     交换玩家背包物品位置     |
-|       [GetPlayerSelectInv](/docs/all#getplayerselectinv)       |<font color=red>服务端</font>|     获取玩家当前所选择的槽位     |
-|         [GetItemDictByInv](/docs/all#getitemdictbyinv)         |<font color=red>服务端</font>|     根据背包类型、槽位来获取物品数据信息     |
-|      [SetPlayerSelectItem](/docs/all#setplayerselectitem)      |<font color=red>服务端</font>|     设置玩家选中的物品槽位     |
-|    [ClearPlayerOnHandItem](/docs/all#clearplayeronhanditem)    |<font color=red>服务端</font>|     清除玩家主手物品     |
-|           [GetAllItemDict](/docs/all#getallitemdict)           |<font color=red>服务端</font>|     获取类型所有物品数据     |
-|             [SetItemLayer](/docs/all#setitemlayer)             |<font color=red>服务端</font>|     设置物品层级贴图，仍需要手动将物品数据生成给玩家，因此使用该接口前需要清除传入的ItemDict物品     |
-|    [SetPlayerItemByInvPos](/docs/all#setplayeritembyinvpos)    |<font color=red>服务端</font>|     根据背包槽位设置玩家物品，会覆盖原有位置物品     |
-| [RemovePlayerItemByInvPos](/docs/all#removeplayeritembyinvpos) |<font color=red>服务端</font>|     根据背包槽位删除玩家物品     |
+|        [ExchangePlayerInv](https://lingzhimian.com/docs/all#exchangeplayerinv)        |<font color=red>服务端</font>|     交换玩家背包物品位置     |
+|       [GetPlayerSelectInv](https://lingzhimian.com/docs/all#getplayerselectinv)       |<font color=red>服务端</font>|     获取玩家当前所选择的槽位     |
+|         [GetItemDictByInv](https://lingzhimian.com/docs/all#getitemdictbyinv)         |<font color=red>服务端</font>|     根据背包类型、槽位来获取物品数据信息     |
+|      [SetPlayerSelectItem](https://lingzhimian.com/docs/all#setplayerselectitem)      |<font color=red>服务端</font>|     设置玩家选中的物品槽位     |
+|    [ClearPlayerOnHandItem](https://lingzhimian.com/docs/all#clearplayeronhanditem)    |<font color=red>服务端</font>|     清除玩家主手物品     |
+|           [GetAllItemDict](https://lingzhimian.com/docs/all#getallitemdict)           |<font color=red>服务端</font>|     获取类型所有物品数据     |
+|             [SetItemLayer](https://lingzhimian.com/docs/all#setitemlayer)             |<font color=red>服务端</font>|     设置物品层级贴图，仍需要手动将物品数据生成给玩家，因此使用该接口前需要清除传入的ItemDict物品     |
+|    [SetPlayerItemByInvPos](https://lingzhimian.com/docs/all#setplayeritembyinvpos)    |<font color=red>服务端</font>|     根据背包槽位设置玩家物品，会覆盖原有位置物品     |
+| [RemovePlayerItemByInvPos](https://lingzhimian.com/docs/all#removeplayeritembyinvpos) |<font color=red>服务端</font>|     根据背包槽位删除玩家物品     |
 
 ## <center>流式索引</center>
 

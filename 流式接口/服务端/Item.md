@@ -18,5 +18,5 @@ Item相较于传统调用函数可以节省下面参数的填写，具体可参�
 
 |                                 属性/方法                                  |<div style="width: 3.5em">端</div>|       描述      |
 |:----------------------------------------------------------------------:|:-:|:-------------:|
-| [BindPlayerOnHandItemFunction](/docs/all#bindplayeronhanditemfunction) |<font color=red>服务端</font>|     绑定玩家手持某物品的事件函数，首次需要切换物品后才会触发     |
-|               [CreateLootItem](/docs/all#createlootitem)               |<font color=red>服务端</font>|     生成掉落物     |
+| [BindPlayerOnHandItemFunction](https://lingzhimian.com/docs/all#bindplayeronhanditemfunction) |<font color=red>服务端</font>|     绑定玩家手持某物品的事件函数，首次需要切换物品后才会触发     |
+|               [CreateLootItem](https://lingzhimian.com/docs/all#createlootitem)               |<font color=red>服务端</font>|     生成掉落物     |
